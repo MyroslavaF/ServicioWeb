@@ -1,0 +1,52 @@
+
+body {
+  background-color: rgb(123, 91, 153);
+  margin-top: 50px;
+  height: 100%;
+}
+.form-group {
+  margin: 5px 10px 0px 10px;
+  padding: 5px 10px 0px 10px;
+}
+.text-dark {
+  font-weight: bold;
+}
+ul {
+  list-style-type: none;
+  margin: 20px;
+}
+ul > li {
+  font-size: 1.2rem;
+  padding-top: 10px;
+}
+.border-dark {
+  height: 600px;
+  box-shadow: 2px 3px 4px;
+  opacity: 0.8;
+}
+
+.imagenes {
+  margin: 20px;
+}
+nav {
+  background-color: azure;
+  margin-bottom: 20px;
+  display: flex;
+}
+.card {
+  margin-top: 20px;
+}
+.col-form-label{
+  padding-left: 20px;
+  margin-left: 30px;
+}
+.registro{
+  
+    margin:0 25% 0 25%;
+    width:50%; 
+}
+#registrar{
+  width: 700px;
+}
+
+
